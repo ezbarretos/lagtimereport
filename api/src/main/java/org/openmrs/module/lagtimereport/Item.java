@@ -9,9 +9,6 @@
  */
 package org.openmrs.module.lagtimereport;
 
-import org.openmrs.BaseOpenmrsData;
-import org.openmrs.User;
-
 import javax.persistence.Basic;
 import javax.persistence.Column;
 import javax.persistence.Entity;

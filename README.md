@@ -1,4 +1,4 @@
-${lagtimereport}
+Lag Time Report
 ==========================
 
 Description

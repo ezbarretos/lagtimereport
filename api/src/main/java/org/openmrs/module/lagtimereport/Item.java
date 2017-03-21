@@ -11,12 +11,13 @@ package org.openmrs.module.lagtimereport;
 
 import javax.persistence.Basic;
 import javax.persistence.Column;
-import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
-import javax.persistence.Table;
+
+import org.openmrs.BaseOpenmrsData;
+import org.openmrs.User;
 
 /**
  * Please note that a corresponding table schema must be created in liquibase.xml.

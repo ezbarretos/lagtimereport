@@ -1,0 +1,3 @@
+org\openmrs\module\lagtimereport\dao\LagTimeReportSetupDaoTest.class
+org\openmrs\module\lagtimereport\LagTimeReportServiceTest.class
+org\openmrs\module\lagtimereport\dao\LagTimeReportDaoTest.class

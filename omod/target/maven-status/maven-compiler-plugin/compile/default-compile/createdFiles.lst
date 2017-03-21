@@ -1,0 +1,7 @@
+org\openmrs\module\lagtimereport\web\controller\LagTimeReportManageController.class
+org\openmrs\module\lagtimereport\validation\LagTimeReportSetupValidation.class
+org\openmrs\module\lagtimereport\web\controller\LagTimeReportController.class
+org\openmrs\module\lagtimereport\web\controller\LagTimeReportSetupController.class
+org\openmrs\module\lagtimereport\propertyeditor\LagTimeReportSetupEditor.class
+org\openmrs\module\lagtimereport\extension\html\AdminList.class
+org\openmrs\module\lagtimereport\web\controller\LagTimeReportAddController.class

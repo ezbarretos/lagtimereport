@@ -1,0 +1,9 @@
+org\openmrs\module\lagtimereport\LagTimeReportConfig.class
+org\openmrs\module\lagtimereport\Item.class
+org\openmrs\module\lagtimereport\api\dao\impl\LagTimeReportSetupServiceDao.class
+org\openmrs\module\lagtimereport\api\impl\LagTimeReportSetupServiceImpl.class
+org\openmrs\module\lagtimereport\api\dao\LagTimeReportSetupDao.class
+org\openmrs\module\lagtimereport\api\LagTimeReportService_1.class
+org\openmrs\module\lagtimereport\LagTimeReportActivator.class
+org\openmrs\module\lagtimereport\LagTimeReportSetup.class
+org\openmrs\module\lagtimereport\api\LagTimeReportSetupService.class
